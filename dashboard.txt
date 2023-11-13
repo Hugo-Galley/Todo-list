@@ -1,0 +1,17 @@
+Fonctionalité : 
+
+Doit pouvoir crée une liste
+donner un nom a la lioste 
+ajouter des ellement a la listes 
+cocher des element de la liste comme fait 
+supprimer des ellements de la liste
+
+Tache à réliser : 
+
+- crée une page web statique avec le nom Todolist 
+- Donner un style a la page 
+- ajouter un boutuon permetant de crée une liste 
+- ajouter un bouton permetant de crée un element 
+- gerer la création et affichage de la liste 
+- gerer la création l'insertion et l'afichage de l'element 
+- gerer la supprimetion de la liste et de l'affichage
